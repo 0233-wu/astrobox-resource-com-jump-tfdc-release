@@ -1,0 +1,61 @@
+{
+  "item": {
+    "id": "com.jump.tfdc",
+    "restype": "quick_app",
+    "name": "跳一跳",
+    "description": "好玩的跳一跳来喽~交流群:975091865",
+    "preview": [
+      "media/xiaomi_band_pro-2026-10-23-23-47-51.png",
+      "media/xiaomi_band_pro-2026-10-24-20-00-33.png",
+      "media/xiaomi_band_10-2026-10-25-13-27-44.png",
+      "media/xiaomi_band_10-2026-10-25-13-28-03.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/跳一跳-米环9Pro宣传海报.png",
+    "author": [
+      {
+        "name": "bandbbs_1268268",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.2.7",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
+      "versionCode": 11
+    },
+    "xmb10nfc": {
+      "version": "1.2.7",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
+      "versionCode": 11
+    },
+    "xmb10p": {
+      "version": "1.2.7",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
+      "versionCode": 11
+    },
+    "xmb11": {
+      "version": "1.2.7",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
+      "versionCode": 11
+    },
+    "xmb11nfc": {
+      "version": "1.2.7",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
+      "versionCode": 11
+    },
+    "xmb9": {
+      "version": "1.2.7",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
+      "versionCode": 11
+    },
+    "xmb9p": {
+      "version": "1.2.7",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
+      "versionCode": 11
+    }
+  },
+  "ext": {}
+}
